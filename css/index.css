@@ -1,0 +1,54 @@
+
+
+h1{
+  margin-left: 100px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 65px;
+}
+.jumbotron{
+  background-color: #ffff;
+}
+
+.jumbotron img {
+
+  background-position: center;
+
+}
+
+.jumbotron h1 {
+  font-size: 30px;
+  text-align: center;
+
+
+}
+
+.col-12 video{
+  position: center;
+  margin: auto;
+}
+
+.leGravel{
+  margin-right: none;
+  background-color: #a78458;
+  height: 300px;
+  text-align: center center;
+
+}
+
+.camping{
+  background-color: #a78458;
+
+}
+
+.card-img-center{
+  text-align: center;
+}
+
+.magasin {
+  background-color: #0198f1;
+}
+
+.evenement{
+  background-color: #0198f1;
+
+}
